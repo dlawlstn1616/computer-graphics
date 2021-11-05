@@ -1,1 +1,3 @@
 # computer-graphics
+
+studying for computer graphics...
